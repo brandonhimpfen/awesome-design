@@ -39,6 +39,7 @@ Whether you're a beginner, seasoned designer, or creative technologist, this lis
 - [Google Fonts](https://fonts.google.com/) – Free fonts from Google.
 - [Typewolf](https://www.typewolf.com/) – Font inspiration and trends.
 - [FontPair](https://fontpair.co/) – Great font combinations.
+- [EnigmaEasel](https://enigmaeasel.com) – AI-powered accessible color, gradient, and font pairing generator.
 
 ## UI/UX Design
 
