@@ -36,6 +36,7 @@ Whether you're a beginner, seasoned designer, or creative technologist, this lis
 
 - [Coolors](https://coolors.co/) – Color palette generator.
 - [Color Hunt](https://colorhunt.co/) – Curated color palettes.
+- [FontsWiki](https://fontswiki.com/) – Typography reference for fonts, free alternatives, and real-world font usage examples.
 - [Google Fonts](https://fonts.google.com/) – Free fonts from Google.
 - [Typewolf](https://www.typewolf.com/) – Font inspiration and trends.
 - [FontPair](https://fontpair.co/) – Great font combinations.
