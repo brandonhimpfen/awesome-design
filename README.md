@@ -1,4 +1,4 @@
-# Awesome Design [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Design [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -109,10 +109,10 @@ Whether you're a beginner, seasoned designer, or creative technologist, this lis
 
 ## Related Awesome Lists
 
-- **[Awesome UX](https://github.com/awesomelistsio/awesome-ux)** – A collection of UX resources.
-- **[Awesome Figma](https://github.com/awesomelistsio/awesome-figma)** – Figma-related plugins and resources.
-- **[Awesome Web Design](https://github.com/awesomelistsio/awesome-web-design)** – Web design resources.
-- **[Awesome CSS](https://github.com/awesomelistsio/awesome-css)** – Tools, libraries, and articles for CSS.
+- **[Awesome UX](https://github.com/brandonhimpfen/awesome-ux)** – A collection of UX resources.
+- **[Awesome Figma](https://github.com/brandonhimpfen/awesome-figma)** – Figma-related plugins and resources.
+- **[Awesome Web Design](https://github.com/brandonhimpfen/awesome-web-design)** – Web design resources.
+- **[Awesome CSS](https://github.com/brandonhimpfen/awesome-css)** – Tools, libraries, and articles for CSS.
   
 ## Contribute
 
